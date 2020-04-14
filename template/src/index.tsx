@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'template/src/assets/styles/index.less';
+import 'assets/styles/index.less';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<article>haha</article>, document.getElementById('root'));
