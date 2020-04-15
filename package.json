@@ -1,7 +1,7 @@
 {
-    "name": "cra-template-xzq2",
-    "version": "0.0.7",
-    "description": "测试template",
+    "name": "cra-template-xzq",
+    "version": "0.0.1",
+    "description": "自用的cra-template",
     "main": "index.js",
     "repository": {
         "type": "git",
